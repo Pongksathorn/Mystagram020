@@ -8,17 +8,19 @@
     --base: #fbff0059;
     --spacing: 5px;
     --blur: 5px;
-    --bg: Yellow;
+    --bg: #00BFFF;
 }
 
 h1 {
     text-align: center;
-    font-family: 'Lemonada', cursive;
-    margin-top: 15%
+    font-family: 'Chonburi', sans-serif;
+    margin-top: 10%;
+    font-size: 40px;
 }
 
 h5 {
-    font-family: 'Lemonada', cursive;
+    font-family: 'Chonburi', sans-serif;
+    font-size: 20px;
 }
 
 .search {
@@ -29,7 +31,8 @@ h5 {
     width: 40%;
     height: 40px;
     text-align: center;
-    font-family: 'Lemonada', cursive;
+    font-family: 'Chonburi', sans-serif;
+    font-size: 25px;
 }
 
 input:focus {
