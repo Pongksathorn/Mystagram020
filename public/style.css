@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
     background: var(--bg);
-    /* background-color: chocolate; */
+   
 }
 
 :root {
-    --base: #fbff0059;
+    --base: #9999;
     --spacing: 5px;
     --blur: 5px;
     --bg: #00BFFF;
@@ -16,11 +16,8 @@ h1 {
     font-family: 'Chonburi', sans-serif;
     margin-top: 10%;
     font-size: 40px;
-}
-
-h5 {
-    font-family: 'Chonburi', sans-serif;
-    font-size: 20px;
+    text-shadow:5px 5px 10px blue;
+     
 }
 
 .search {
